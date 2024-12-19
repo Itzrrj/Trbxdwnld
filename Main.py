@@ -1,6 +1,9 @@
 import json
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Bot Token from BotFather
 BOT_TOKEN = "6694464706:AAEBvsbAW5mjQi5b2QXc2Nk8n_fDBkTzb7s"
