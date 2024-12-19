@@ -6,7 +6,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Bot Token from BotFather
-BOT_TOKEN = "7381647603:AAHFgD6hH3L9vr23fr1Ezn62Y_9SYpb8gX0"
+BOT_TOKEN = "7381647603:AAHalp3qOx6BCAkdYdvf6N6shth6uydPBEY"
 
 # Replace with your channel username and valid invite link
 CHANNEL = {
